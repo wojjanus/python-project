@@ -1,2 +1,3 @@
 for i in range(10):
-    print("Wojtek")
+    print("Mam na imię Wojtek ")
+    print("(,')")
